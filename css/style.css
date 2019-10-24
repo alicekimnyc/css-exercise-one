@@ -31,9 +31,12 @@ section {
 
 /* background is changed to white */
 .element {
-  background-color: yellow;
+  background-color: #FDF0F0;
   text-align: center;
   height: 100px;
-  margin 10px;
+  margin: 10px;
   width: 100%;
+}
+.blue {
+  background-color: #F26363;
 }
